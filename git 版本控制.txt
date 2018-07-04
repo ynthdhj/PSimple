@@ -1,0 +1,52 @@
+git init
+
+
+到 https://github.com/ 上，建立远程空间: https://github.com/ynthdhj/PSimple.git
+
+
+==== 参考：
+
+github
+
+ynthdhj  19512448@qq.com   passwd: ynthdhj112233d
+
+操作方法参考：
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ynthdhj/PSimple.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/ynthdhj/PSimple.git
+git push -u origin master
+
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+====
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/ynthdhj/PSimple.git
+
+git push -u origin master
+
+
+
+
+查看状态:
+
+git remote -v 
+
+
+
+git fetch PSimpleWeb  从系统上更新源分支到本地  会被存储在一个本地分支 PSimpleWeb/master 
+
+
+
+

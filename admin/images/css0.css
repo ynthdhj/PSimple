@@ -1,0 +1,124 @@
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: Verdana,Tahoma,宋体; TEXT-DECORATION: none
+}
+TABLE {
+	FONT-SIZE: 9pt
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #3b3b3b; LINE-HEIGHT: 16px
+}
+.bt {
+	FONT-SIZE: 14px
+}
+.T1 {
+	BACKGROUND-COLOR: #2e56b4
+}
+.T2 {
+	BACKGROUND-COLOR: #f1f4fc
+}
+.T3 {
+	BACKGROUND-COLOR: #dae2f5
+}
+.T4 {
+	BACKGROUND-COLOR: #d1c4a3
+}
+.T5 {
+	BACKGROUND-COLOR: #718bd6
+}
+A {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #4f4f4f; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #4f4f4f; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.B1 {
+	BACKGROUND-COLOR: #cccccc
+}
+.B2 {
+	BACKGROUND-COLOR: #666666
+}
+.B3 {
+	BACKGROUND-COLOR: #ebebeb
+}
+.PIC1 {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid
+}
+SELECT {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Tahoma,Verdana,宋体
+}
+
+
+.TEXTAREA {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Tahoma,Verdana,宋体
+}
+.INPUT1 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Tahoma,Verdana,宋体
+}
+.INPUT2 {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 9pt; BORDER-BOTTOM: #999999 1px dotted; FONT-FAMILY: "宋体","Verdana","Tahoma","宋体"; BORDER-RIGHT-WIDTH: 0px
+}
+.INPUT3 {
+	BACKGROUND-COLOR:  #f7f7f7;BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 9pt; BORDER-BOTTOM: #999999 1px dotted; FONT-FAMILY: "宋体","Verdana","Tahoma","宋体"; BORDER-RIGHT-WIDTH: 0px
+}
+.S1 {
+	BACKGROUND-COLOR: #efefef
+}
+.S2 {
+	BACKGROUND-COLOR: #f7f7f7
+}
+.S3 {
+	BACKGROUND-COLOR: #ffffff
+}
+.S4 {
+	BACKGROUND-COLOR: #718bd6
+}
+.S5 {
+	BACKGROUND-COLOR: #ecf5ff
+}
+.FONT1 {
+	COLOR: #ffffff
+}
+.FONT2 {
+	COLOR: #ff0000
+}
+.BUTTN-FIX1 {
+	BORDER-RIGHT: #cccccc 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 1px ridge; BORDER-BOTTOM: #cccccc 1px ridge; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; HEIGHT: 20px; BACKGROUND-COLOR: #e0e0d5
+}
+.BUTTN-FIX {
+	BORDER-RIGHT: #cccccc 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 1px ridge; WIDTH: 80px; BORDER-BOTTOM: #cccccc 1px ridge; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; HEIGHT: 20px; BACKGROUND-COLOR: #e0e0d5
+}
+.T01 {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #f5f5f5
+}
+.F1 {
+	FONT-SIZE: 9pt; COLOR: #990000; TEXT-DECORATION: none
+}
+.F2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #990000; TEXT-DECORATION: none
+}
+.F3 {
+	FONT-SIZE: 9pt; COLOR: #0033cc
+}
+.F4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.F5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt
+}
+
+#ul ul{list-style:none; }
+#ul li{float:left;}
+
+
+.errorMessage {
+	color: #FF5555;
+}
