@@ -1,4 +1,8 @@
 <?php
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 header ( " Expires: Mon, 26 Jul 1970 05:00:00 GMT " );
 header ( " Last-Modified:" . gmdate ( " D, d M Y H:i:s " ). "GMT " );
 header ( " Cache-Control: no-cache, must-revalidate " );

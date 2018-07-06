@@ -1,5 +1,8 @@
 <?php
-
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 namespace session;
 
 if (!defined('DOCUMENT_ROOT')) {

@@ -1,4 +1,8 @@
 <?PHP
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 require($_SERVER['DOCUMENT_ROOT'] . "/config/config.php");
 require(DOCUMENT_ROOT . "/auth/adminAuthPage.php");
 ?>

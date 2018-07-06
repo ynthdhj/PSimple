@@ -11,7 +11,10 @@
  *
  * @author Administrator
  */
-
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 namespace dao;
 
 if (!defined('DOCUMENT_ROOT')) {

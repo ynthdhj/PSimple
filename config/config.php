@@ -1,4 +1,8 @@
 <?php
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 if (!defined('DOCUMENT_ROOT')) {
 	define('DOCUMENT_ROOT',$_SERVER['DOCUMENT_ROOT']);
 }

@@ -1,4 +1,8 @@
 <?php
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 require("../config/config.php");
 require("../auth/adminAuthPage.php");
 ?>

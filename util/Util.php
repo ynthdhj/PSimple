@@ -1,4 +1,8 @@
 <?php
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 namespace util;
 if (!defined('DOCUMENT_ROOT')) {
     exit("No permission resources");

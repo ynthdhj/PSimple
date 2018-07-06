@@ -1,4 +1,8 @@
 <?php
+ /*
+ ¶Îºé½Ü  qq:19512448
+ 
+ */
 use model\AdminModel;
 use session\Session2;
 
