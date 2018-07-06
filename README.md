@@ -1,30 +1,21 @@
+Designed for software development in the seismic industry.
+
+It can also be used for large, medium and small business websites, and is more suitable for large portals with large traffic.
+
+design :
 
 
-实际运用的J2EE大型项目架构在PHP+MYSQL上的验证。
+Everything is practical. Remove all impractical, and fancy design methods.
 
-针对地震行业的软件开发设计。
+learning is also cost, the code is intuitive and easy to understand.
 
+efficient, flexible, very easy to expand, easy to secondary development.
 
-也可以用于大、中、小型商务网站，更适合于流量大的大型门户网站。
+multi-layer architecture, easy to multi-person cooperation and development.
 
+The self-built MVC mode is implemented in the simplest and most efficient way.
 
-设计理念：
-
-1、简约，把复杂的事做简单，而不是把简单的事做复杂。
-
-2、一切为了实用。除去一切概念性的，不实用的和花哨的设计方法。
-
-3、学习也是成本，代码直观易懂。
-
-4、高效、灵活，非常易于扩展，易于二次开发。
-
-5、多层架构，易于多人的合作开发。
-
-6、自建的MVC模式，用最简单、高效的方法实现。
-
-7、二级缓存功能。数据缓存、网页缓存。
-
-支持十多种数据库。
+the second level cache function. Data cache, web cache.
 
 
-开发路线：SSO单点登录、分布式缓存
+SSO single sign-on, distributed cache
