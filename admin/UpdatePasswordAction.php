@@ -9,8 +9,8 @@ use service\AdminService;
 use session\Session2;
 
 require($_SERVER['DOCUMENT_ROOT'] . "/config/config.php");
-require(DOCUMENT_ROOT . "/lib/adodb5/adodb.inc.php");
-require(DOCUMENT_ROOT . "/lib/smarty-3.1.30/libs/Smarty.class.php");
+require(DOCUMENT_ROOT . "/lib/dao.php");
+require(DOCUMENT_ROOT . "/lib/tmp.php");
 
 require(DOCUMENT_ROOT . "/model/AdminModel.php");
 require(DOCUMENT_ROOT . "/action/ActionImpl.php");

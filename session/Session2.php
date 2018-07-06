@@ -9,7 +9,7 @@ if (!defined('DOCUMENT_ROOT')) {
     exit("No permission resources");
 }
 
-require_once (DOCUMENT_ROOT . "/lib/adodb5/session/adodb-session2.php");
+require_once (DOCUMENT_ROOT . "/lib/session2.php");
 \ADOdb_Session::config("mysqli", DB_HOSTNAME, DB_USER, DB_PASSWORD, DB_DATABASE, "sessions2", $options = false);
 
 class Session2 {

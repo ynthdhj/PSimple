@@ -33,15 +33,15 @@ class Controller {
         include(DOCUMENT_ROOT . $file);
     }
 
-    public function viewSmarty($file, $s) {
+    public function viewTmp($file, $s) {
 
-        $smarty = new Smarty();
-        $smarty->template_dir = DOCUMENT_ROOT . "/template"; //设置模板目录
-        $smarty->compile_dir = DOCUMENT_ROOT . "/template_c"; //设置编译目录
+        $tmp = new Tmp();
+        $tmp->template_dir = DOCUMENT_ROOT . "/template"; //设置模板目录
+        $tmp->compile_dir = DOCUMENT_ROOT . "/template_c"; //设置编译目录
         for ($i = 0; $i < count($s); $i++) {
             $keys = array_key($s);
-            $smarty->assign($keys[$i], $s[$i]);
-            $smarty->display(DOCUMENT_ROOT . $file);
+            $tmp->assign($keys[$i], $s[$i]);
+            $tmp->display(DOCUMENT_ROOT . $file);
         }
     }
 
